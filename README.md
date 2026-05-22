@@ -1,71 +1,120 @@
-# Suraj Prasad Kalauni
+<div align="center">
 
-**AI/ML Engineer · LLM Inference & Optimization · Samsung SRIB (Incoming) · DTU M.Tech**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Suraj%20Prasad%20Kalauni&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20LLM%20Inference%20%E2%80%A2%20Samsung%20SRIB&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajprasaddtu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spkalauni7789@gmail.com)
-[![Publication](https://img.shields.io/badge/AIP%202025-DOI%3A10.1063%2F5.0247009-7C3AED?style=flat-square)](https://doi.org/10.1063/5.0247009)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=LLM+Inference+%26+Optimization+Specialist;Speculative+Decoding+%C2%B7+Quantization+%C2%B7+Pruning;Senior+SWE+%40+Samsung+SRIB+(Incoming);M.Tech+Software+Engineering+%40+DTU;Published+Researcher+%C2%B7+GATE+Top+5%25" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-I work at the intersection of systems engineering and deep learning — building infrastructure that makes large models run faster and cheaper in production. My core focus is LLM inference: speculative decoding, quantization, structured pruning, and KV-cache optimization.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajprasaddtu/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spkalauni7789@gmail.com)
+[![Publication](https://img.shields.io/badge/AIP%20Publication%202025-7C3AED?style=for-the-badge&logo=researchgate&logoColor=white)](https://doi.org/10.1063/5.0247009)
+[![GATE CSE](https://img.shields.io/badge/GATE%20CSE%202024-Rank%205943-F97316?style=for-the-badge)](https://github.com/surajprasad32)
 
-Currently finishing M.Tech at DTU. During my internship at Samsung SRIB, I built agentic developer tooling and cut transformer inference latency by 15% through batching and prompt compression. Received a PPO for Senior Software Engineer.
-
----
-
-## Projects
-
-| Project | What it does | Result |
-|---------|-------------|--------|
-| [speculative-decoding](https://github.com/surajprasad32/speculative-decoding) | GPT-2 draft + GPT-2 XL verifier pipeline, implemented from scratch | **2.1× throughput** improvement |
-| [llm-quantization-bench](https://github.com/surajprasad32/llm-quantization-bench) | INT8/FP16 quantization benchmarks across LLaMA 3.2 & Mistral-7B | **38% GPU memory reduction**, <1.2% perplexity loss |
-| [transformer-pruning](https://github.com/surajprasad32/transformer-pruning) | Magnitude-based attention-head pruning on DistilBERT | **27% latency reduction** at 20% sparsity |
-| [cardiovascular-risk-cv](https://github.com/surajprasad32/cardiovascular-risk-cv) | Deep CNN on retinal fundus images for non-invasive cardiac risk screening | **79.41% accuracy** · [Published AIP 2025](https://doi.org/10.1063/5.0247009) |
-| [task-management-mern](https://github.com/surajprasad32/task-management-mern) | Full-stack app with WebSockets, Redis caching, and JWT RBAC | 40% reduction in DB load |
-| [secure-payment-nfc](https://github.com/surajprasad32/secure-payment-nfc) | NFC + RSA encryption + FIDO biometric payment system | 100+ field-tested transactions |
+</div>
 
 ---
 
-## Tech
+## About Me
 
-**Languages** — Python, C++, TypeScript, Go, Java, SQL
+I work at the intersection of **systems engineering and deep learning** — building infrastructure that makes large models run faster and cheaper in production. My core focus is LLM inference: speculative decoding, quantization, structured pruning, and KV-cache optimization.
 
-**AI / ML** — PyTorch, HuggingFace Transformers, vLLM, ONNX, TensorRT, LangChain, scikit-learn
+Currently finishing M.Tech at DTU. During my internship at Samsung SRIB, I built agentic developer tooling and reduced transformer inference latency by 15% through batching and prompt compression. Received a Pre-Placement Offer for Senior Software Engineer.
 
-**Backend** — FastAPI, Node.js, Next.js, PostgreSQL, Redis, MongoDB, gRPC
-
-**Infra** — Docker, Kubernetes, AWS, Terraform, MLflow, GitHub Actions, Prometheus
-
----
-
-## Background
-
-- 🎓 M.Tech Software Engineering @ DTU — GPA 8.33 &nbsp;|&nbsp; B.Tech CSE @ AKTU — GPA 8.12
-- 💼 Samsung SRIB — Software Engineer Intern → **Pre-Placement Offer (Senior SWE)**
-- 📊 GATE CSE 2024 — Rank **5,943** / 1,23,967 &nbsp;·&nbsp; GATE DA 2024 — Rank **5,973** / 39,210
-- 📄 First-author publication in *AIP Conference Proceedings 2025* — cardiovascular risk prediction via retinal fundus deep learning
+```
+🔭 Currently building  →  RAG systems, multi-agent orchestration, MLOps pipelines
+🧠 Specialization      →  LLM inference optimization, production AI systems
+🏢 Next role           →  Senior Software Engineer @ Samsung SRIB (July 2025)
+📍 Location            →  Delhi, India
+```
 
 ---
 
-## Currently Building
+## Featured Projects
 
-Working through a structured portfolio covering the full AI/software stack:
-
-- `rag-production-system` — hybrid search, reranking, eval harness
-- `multi-agent-orchestration` — LangGraph + tool-use + persistent memory
-- `mlops-pipeline` — MLflow + DVC + GitHub Actions end-to-end
-- `llm-serving-stack` — vLLM production serving with autoscaling
-- `realtime-data-pipeline` — Kafka + Flink + ClickHouse
+| Project | Description | Highlight |
+|---------|-------------|-----------|
+| [**speculative-decoding**](https://github.com/surajprasad32/speculative-decoding) | GPT-2 draft + XL verifier pipeline from scratch | **2.1× throughput** speedup |
+| [**llm-quantization-bench**](https://github.com/surajprasad32/llm-quantization-bench) | INT8/FP16 benchmarks on LLaMA 3.2 & Mistral-7B | **38% less GPU memory**, <1.2% perplexity loss |
+| [**transformer-pruning**](https://github.com/surajprasad32/transformer-pruning) | Attention-head magnitude pruning on DistilBERT | **27% latency reduction** @ 20% sparsity |
+| [**cardiovascular-risk-cv**](https://github.com/surajprasad32/cardiovascular-risk-cv) | Retinal fundus deep learning · [AIP 2025](https://doi.org/10.1063/5.0247009) | **79.41% accuracy** · Published |
+| [**task-management-mern**](https://github.com/surajprasad32/task-management-mern) | MERN + WebSockets + Redis caching + JWT RBAC | 40% DB load reduction |
+| [**secure-payment-nfc**](https://github.com/surajprasad32/secure-payment-nfc) | NFC + RSA encryption + FIDO biometric auth | 100+ field-tested transactions |
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajprasad32&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajprasad32&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=html,css" height="165" alt="Top Languages"/>
-</p>
+## Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=surajprasad32&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
+**AI / ML & Inference**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Backend & Full Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infrastructure & MLOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🏅 **Samsung SRIB PPO** | Pre-Placement Offer → Senior Software Engineer (Jul 2025) |
+| 📄 **AIP Publication 2025** | First-author · Cardiovascular risk prediction via retinal fundus deep learning |
+| 📊 **GATE CSE 2024** | Score 490 · Rank **5,943** / 1,23,967 · Top 5% |
+| 📊 **GATE DA 2024** | Score 362 · Rank **5,973** / 39,210 · Top 16% |
+| 🎓 **DTU M.Tech** | Software Engineering · GPA 8.33 |
+| 🎓 **AKTU B.Tech** | Computer Science & Engineering · GPA 8.12 |
+| 🏀 **Sports** | State Division Basketball · National Yoga · 15+ medals |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=surajprasad32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajprasad32&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=surajprasad32&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*"The best model isn't the biggest — it's the one that ships."*
+
+</div>

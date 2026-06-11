@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Suraj%20Prasad%20Kalauni&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20LLM%20Inference%20%E2%80%A2%20Samsung%20SRIB&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Suraj%20Prasad%20Kalauni&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20LLM%20Inference%20%E2%80%A2%20Samsung%20SRIB&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=LLM+Inference+%26+Optimization+Specialist;Speculative+Decoding+%C2%B7+Quantization+%C2%B7+Pruning;Senior+SWE+%40+Samsung+SRIB+(Incoming);M.Tech+Software+Engineering+%40+DTU;Published+Researcher+%C2%B7+GATE+Top+5%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=LLM+Inference+%26+Optimization+Engineer;Speculative+Decoding+%C2%B7+Quantization+%C2%B7+Pruning;Senior+Software+Engineer+%40+Samsung+SRIB;M.Tech+Software+Engineering+%40+DTU;Published+Researcher+%C2%B7+GATE+Top+5%25" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajprasaddtu/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spkalauni7789@gmail.com)
 [![Publication](https://img.shields.io/badge/AIP%20Publication%202025-7C3AED?style=for-the-badge&logo=researchgate&logoColor=white)](https://doi.org/10.1063/5.0247009)
-[![GATE CSE](https://img.shields.io/badge/GATE%20CSE%202024-Rank%205943-F97316?style=for-the-badge)](https://github.com/surajprasad32)
+[![GATE CSE](https://img.shields.io/badge/GATE%20CSE%202024-Top%205%25-F97316?style=for-the-badge)](https://github.com/surajprasad32)
 
 </div>
 
@@ -21,12 +21,12 @@
 
 I work at the intersection of **systems engineering and deep learning** — building infrastructure that makes large models run faster and cheaper in production. My core focus is LLM inference: speculative decoding, quantization, structured pruning, and KV-cache optimization.
 
-Currently finishing M.Tech at DTU. During my internship at Samsung SRIB, I built agentic developer tooling and reduced transformer inference latency by 15% through batching and prompt compression. Received a Pre-Placement Offer for Senior Software Engineer.
+M.Tech Software Engineering from DTU. At Samsung SRIB, I built agentic developer tooling and reduced transformer inference latency by 15% through batching and prompt compression, earning a Pre-Placement Offer → **Senior Software Engineer**.
 
 ```
 🔭 Currently building  →  RAG systems, multi-agent orchestration, MLOps pipelines
 🧠 Specialization      →  LLM inference optimization, production AI systems
-🏢 Next role           →  Senior Software Engineer @ Samsung SRIB (July 2025)
+🏢 Role                →  Senior Software Engineer @ Samsung SRIB
 📍 Location            →  Delhi, India
 ```
 
@@ -36,12 +36,8 @@ Currently finishing M.Tech at DTU. During my internship at Samsung SRIB, I built
 
 | Project | Description | Highlight |
 |---------|-------------|-----------|
-| [**speculative-decoding**](https://github.com/surajprasad32/speculative-decoding) | GPT-2 draft + XL verifier pipeline from scratch | **2.1× throughput** speedup |
-| [**llm-quantization-bench**](https://github.com/surajprasad32/llm-quantization-bench) | INT8/FP16 benchmarks on LLaMA 3.2 & Mistral-7B | **38% less GPU memory**, <1.2% perplexity loss |
-| [**transformer-pruning**](https://github.com/surajprasad32/transformer-pruning) | Attention-head magnitude pruning on DistilBERT | **27% latency reduction** @ 20% sparsity |
-| [**cardiovascular-risk-cv**](https://github.com/surajprasad32/cardiovascular-risk-cv) | Retinal fundus deep learning · [AIP 2025](https://doi.org/10.1063/5.0247009) | **79.41% accuracy** · Published |
-| [**task-management-mern**](https://github.com/surajprasad32/task-management-mern) | MERN + WebSockets + Redis caching + JWT RBAC | 40% DB load reduction |
-| [**secure-payment-nfc**](https://github.com/surajprasad32/secure-payment-nfc) | NFC + RSA encryption + FIDO biometric auth | 100+ field-tested transactions |
+| [**speculative-decoding**](https://github.com/surajprasad32/speculative-decoding) | From-scratch PyTorch pipeline — GPT-2 draft + GPT-2 XL verifier · 5 controlled experiments on T4 GPU | **2.1× throughput** on greedy sampling |
+| [**blog-cms-api**](https://github.com/surajprasad32/blog-cms-api) | Production-grade Blog CMS REST API — FastAPI, PostgreSQL, JWT RBAC, Docker | Fully containerized |
 
 ---
 
@@ -85,7 +81,7 @@ Currently finishing M.Tech at DTU. During my internship at Samsung SRIB, I built
 
 | | |
 |---|---|
-| 🏅 **Samsung SRIB PPO** | Pre-Placement Offer → Senior Software Engineer (Jul 2025) |
+| 🏅 **Samsung SRIB PPO** | Pre-Placement Offer → Senior Software Engineer |
 | 📄 **AIP Publication 2025** | First-author · Cardiovascular risk prediction via retinal fundus deep learning |
 | 📊 **GATE CSE 2024** | Score 490 · Rank **5,943** / 1,23,967 · Top 5% |
 | 📊 **GATE DA 2024** | Score 362 · Rank **5,973** / 39,210 · Top 16% |
